@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.20"
+  },
+  "name": "shahbaz_ali-student-managment-system",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
